@@ -1,3 +1,3 @@
-# ptb_flutter
+# traducteur-morse-flutter    
 
-A new Flutter project.
+Rendu pour l'évaluation finale de Développement mobile - HETIC A4.
